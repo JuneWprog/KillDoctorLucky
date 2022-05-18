@@ -49,6 +49,8 @@ The program provides the following features:
 13. Automatically move the Target character around the world after every turn.
 14. Automatically move the Target character's pet around the world after every turn using Depth First Search.
 15. Hints are displayed before every move.
+![image](https://user-images.githubusercontent.com/77699526/168951499-de986c60-ba23-4b92-a999-70eec9cf2cb3.png)
+
 
 ### How to Run
 

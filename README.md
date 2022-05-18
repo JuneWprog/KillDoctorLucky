@@ -7,6 +7,8 @@ This repo represents the coursework for CS 5010, the Spring 2022 Edition!
 **Email:** shah.koma@northeastern.edu, wang.jun6@northeastern.edu
 
 **Preferred Name:** Komal, June
+![image](https://user-images.githubusercontent.com/77699526/168950703-c55d5938-3702-4dbc-901a-997d843da8c6.png)
+
 
 ### About/Overview
 

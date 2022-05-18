@@ -1,6 +1,6 @@
 # CS 5010 Semester Project
 
-This repo represents the coursework for CS 5010, the Fall 2022 Edition!
+This repo represents the coursework for CS 5010, the Spring 2022 Edition!
 
 **Name:** Komal Shah, Jun Wang
 

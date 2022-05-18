@@ -1,0 +1,50 @@
+50 40 Netflix' Mansion
+5 Professor
+Professor's Pet
+23
+12  0 16  3 Friends
+35  4 49  6 GOT
+45 18 49 21 The Office
+35 33 49 35 Flash
+ 0 13  4 19 Squid Game
+ 0 20  4 26 Riverdale
+ 3 27  8 32 Suits
+12 36 16 39 Euphoria
+15 13 34 18 Gotham
+15 21 34 26 Young Sheldon
+13 27 26 29 Vikings
+35 27 40 32 Money Heist
+ 5 13 13 26 Big Bang Theory
+36 13 44 26 How I Met Your Mother
+35  7 40 12 Shameless
+27  9 34 12 Witcher
+27 27 34 30 Justice League
+13 10 26 12 Sherlock
+20  4 34  8 MurderVille
+ 9  4 19  9 2 Broke Girls
+ 9 30 19 35 Two and Half Men
+20 31 34 35 Brooklyn99
+ 3  7  8 12 Stranger Things
+22
+8 5 Batmobile
+4 3 Younghee's Eyes
+9 2 Trains
+0 3 Janice' Laugh
+15 3 Witcher Spell
+2 4 Jim's pranks
+16 2 Cyborg
+1 2 Dragons
+19 2 Poisonous cupcakes
+6 2 Subpoena
+2 4 Shredder
+6 2 Law Suits
+22 3 Eleven
+13 2 Eight Seasons
+14 2 Alcohol
+11 2 Arturo
+17 2 Sherlock's Wit
+12 3 Quantum Physics
+7 2 Euphoria
+0 3 Chandler's Sarcasm
+22 4 Demogorgon
+10 4 The Axe
